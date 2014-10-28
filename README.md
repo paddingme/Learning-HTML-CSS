@@ -33,3 +33,17 @@
     demo: <http://codepen.io/paddingme/pen/cJGhl>
 
     相关链接：<http://qianduanblog.com/post/css-learning-21-using-html-css-write-an-input-box.html>
+
+
+2.  label 标签的应用
+
+ ```
+ <input id="J_MyChk" type="checkbox" value=""><label for="J_MyChk">点击我也可以让左边选中</label>
+ ```
+
+ ```
+ <label><input type="checkbox" value="">点击我也可以让左边选中</label>
+ ```
+
+3. `<button type="button">我是一个按钮</button>`
+

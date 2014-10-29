@@ -49,7 +49,7 @@
 
 4. `form `表单的正确使用
 
-https://github.com/paddingme/fex/issues/3
+  https://github.com/paddingme/fex/issues/3
 
 5. `title` 属性 和 `alt` 属性
 

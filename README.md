@@ -1,4 +1,4 @@
-1. 使用HTML、CSS写好一个输入框
+## 1. 使用HTML、CSS写好一个输入框
 
   如何做到输入框无无文字时和输入文字时一致对齐？  
   chrome 浏览器的输入框光标、输入文字、占位符有以下规则：
@@ -35,7 +35,7 @@
     相关链接：<http://qianduanblog.com/post/css-learning-21-using-html-css-write-an-input-box.html>
 
 
-2.  label 标签的应用
+## 2.  label 标签的应用
 
  ```
  <input id="J_MyChk" type="checkbox" value=""><label for="J_MyChk">点击我也可以让左边选中</label>
@@ -45,13 +45,13 @@
  <label><input type="checkbox" value="">点击我也可以让左边选中</label>
  ```
 
-3. `<button type="button">我是一个按钮</button>`
+## 3. `<button type="button">我是一个按钮</button>`
 
-4. `form `表单的正确使用
+## 4. `form `表单的正确使用
 
   https://github.com/paddingme/fex/issues/3
 
-5. `title` 属性 和 `alt` 属性
+## 5. `title` 属性 和 `alt` 属性
 
  `title`的正确使用场景主要有以下四种：
 

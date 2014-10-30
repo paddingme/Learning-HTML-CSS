@@ -1,28 +1,24 @@
 # 目录
 
-## 文章
+## HTML & CSS 文章
 
-1. [语义化](https://github.com/paddingme/Learning-CSS#6-%E8%AF%AD%E4%B9%89%E5%8C%96)
-2. [使用HTML、CSS写好一个输入框](https://github.com/paddingme/Learning-CSS#1-%E4%BD%BF%E7%94%A8htmlcss%E5%86%99%E5%A5%BD%E4%B8%80%E4%B8%AA%E8%BE%93%E5%85%A5%E6%A1%86)
-3. [form 表单的正确使用](https://github.com/paddingme/Learning-CSS#4-form%E8%A1%A8%E5%8D%95%E7%9A%84%E6%AD%A3%E7%A1%AE%E4%BD%BF%E7%94%A8)
+1. [语义化](https://github.com/paddingme/Learning-HTML-CSS/blob/master/articles/semantic-html.md)
+2. [使用HTML、CSS写好一个输入框](https://github.com/paddingme/Learning-HTML-CSS/blob/master/articles/input.md)
+3. [form 表单的正确使用](https://github.com/paddingme/Learning-HTML-CSS/blob/master/articles/form.md)
+4. [基本视觉格式化](https://github.com/paddingme/Learning-HTML-CSS/blob/master/articles/basic-visual-formatting.md)
+4. [CSS 中的float标签](https://github.com/paddingme/Learning-HTML-CSS/blob/master/articlesfloat-label-in-css.md)
+4. [浮动](https://github.com/paddingme/Learning-HTML-CSS/blob/master/float.md)
+4. [HTML head 头标签](https://github.com/paddingme/Learning-HTML-CSS/blob/master/html-head-tags.md)
+5. [学习CSS布局](https://github.com/paddingme/Learning-HTML-CSS/blob/master/learn-css-layout.md)
+6. [模式？标准！](https://github.com/paddingme/Learning-HTML-CSS/blob/master/mode-or-standard.md)
+7. [CSS中的值和单位、字体以及文本属性](https://github.com/paddingme/Learning-HTML-CSS/blob/master/value-unit-font-and-text-attribute-in-the-css.md)
 
 
 ---
 
 ## 知识碎片
 
-### 1. label 标签的应用
-
- ```
- <input id="J_MyChk" type="checkbox" value=""><label for="J_MyChk">点击我也可以让左边选中</label>
- ```
-
- ```
- <label><input type="checkbox" value="">点击我也可以让左边选中</label>
- ```
-
-### 2. `<button type="button">我是一个按钮</button>`
-### 3. `title` 属性 和 `alt` 属性
+### 1. `title` 属性 和 `alt` 属性
 
 `title`的正确使用场景主要有以下四种：
 
@@ -35,7 +31,7 @@
 
 参考： [alt属性和title属性](http://www.junchenwu.com/2005/05/alttitle.html)
 
-### 4. [清除浮动和闭合浮动的区别]()
+### 2. 清除浮动和闭合浮动的区别
 
 原来是一丝提出的“闭合浮动”。为了避免混淆，还是说全吧，“使float元素可以撑高父元素”。
 
@@ -54,6 +50,20 @@
 In addition, if the element has any floating descendants whose bottom margin edge is below the element's bottom content edge, then the height is increased to include those edges. Only floats that participate in this block formatting context are taken into account, e.g., floats inside absolutely positioned descendants or other floats are not.
 
 参考:<http://segmentfault.com/q/1010000000732608>
+
+### 3. label 标签的应用
+
+ ```
+ <input id="J_MyChk" type="checkbox" value="">
+ <label for="J_MyChk">点击我也可以让左边选中</label>
+ ```
+
+ ```
+ <label><input type="checkbox" value="">点击我也可以让左边选中</label>
+ ```
+
+### 4. `<button type="button">我是一个按钮</button>`
+
 
 
 

@@ -12,8 +12,8 @@
 8. [浮动](https://github.com/paddingme/Learning-HTML-CSS/issues/8)
 9. [使用 HTML、CSS 写好一个输入框](https://github.com/paddingme/Learning-HTML-CSS/issues/9)
 10. [CSS 中的值和单位、字体以及文本属性](https://github.com/paddingme/Learning-HTML-CSS/issues/10)
-11. [emmet 语法速查]()
-12. <a href="" title="todo">CSS 居中到底哪家强？</a>
+11. [emmet 语法速查](https://github.com/paddingme/Learning-HTML-CSS/issues/17)
+12. [CSS 居中到底哪家强？](https://github.com/paddingme/Learning-HTML-CSS/issues/16)
 
 
 ---
